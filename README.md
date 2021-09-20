@@ -8,5 +8,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omezkan)](https://github.com/anuraghazra/github-readme-stats)
 -->
   
-[![](https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/addastra1010)
+[![](file:///C:/Users/Computer/Downloads/hackerrank_button_icon_151894.svg&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/addastra1010)
 
