@@ -2,6 +2,8 @@
 
 # Hello, I'm Ömer. You can find things which are about AI, ML and Data Science in this account.
 
+
+[HackerRank]: https://www.hackerrank.com/addastra1010
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Omezkan" alt="Omezkan" /> </p>
 
 <!--- Most used languages
@@ -14,5 +16,4 @@
 [![](https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/addastra1010)
 [![Mail Badge](https://img.shields.io/badge/omerozkann1010@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:omerozkann1010@gmail.com)](mailto:omerozkann1010@gmail.com)
 
-[HackerRank]: https://www.hackerrank.com/addastra1010
                                    
